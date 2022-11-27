@@ -96,7 +96,7 @@ body{
     transition: .3s linear;
 }
 .bi-reply:hover{
-    color:white;
+    color:rgb(115, 110, 110);
 }
 @import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
 
